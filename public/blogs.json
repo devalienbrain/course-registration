@@ -1,0 +1,65 @@
+[
+  {
+    "image": "https://i.ibb.co/S0XQyXB/1-C.png",
+    "title": "Introduction to C Programming",
+    "description": "C is a general-purpose programming language created by Dennis Ritchie at the Bell Laboratories in 1972. It is a very popular language, despite being old.",
+    "price": 15000,
+    "credit": 1
+  },
+  {
+    "image": "https://i.ibb.co/tcgZBLG/2-Algo.png",
+    "title": "Introduction to Algorithms",
+    "description": "An algorithm is a well-defined step-by-step procedure to transform a given input into the desired output to solve a computational problem.",
+    "price": 25000,
+    "credit": 2
+  },
+  {
+    "image": "https://i.ibb.co/vC9TZVV/3-CPlus.png",
+    "title": "Introduction to C++ for DSA",
+    "description": "Key concepts of C++ DSA include Arrays, Linked Lists, Stacks, Queues, Trees, and Graphs. It  focuses on implementing various Data Structures and Algorithms in C++.",
+    "price": 10000,
+    "credit": 10
+  },
+  {
+    "image": "https://i.ibb.co/QFR98rM/4-Data-Struc.png",
+    "title": "Basic Data Structures",
+    "description": "A data structure is a storage that is used to store and organize data. It is a way of arranging data on a computer so that it can be accessed and updated efficiently.",
+    "price": 35000,
+    "credit": 5
+  },
+  {
+    "image": "https://i.ibb.co/7KKTNyH/5-Pyth.png",
+    "title": "Introduction to OOP Python",
+    "description": "In Python, object-oriented is a programming paradigm that uses objects and classes. It aims to implement real-world entities like inheritance, polymorphisms, encapsulation.",
+    "price": 19000,
+    "credit": 5
+  },
+  {
+    "image": "https://i.ibb.co/tsTwqwf/6-Soft-Eng.png",
+    "title": "Software Engineering",
+    "description": "Software engineering is the branch of computer science that deals with the design, development, testing, and maintenance of software applications.",
+    "price": 23000,
+    "credit": 2
+  },
+  {
+    "image": "https://i.ibb.co/vLzFLc9/7-Aws.png",
+    "title": "AWS, Cloud Computing",
+    "description": "AWS (Amazon Web Services) is a comprehensive, evolving cloud computing platform provided by Amazon that includes a mixture of infrastructure-as-a-service (IaaS),",
+    "price": 35000,
+    "credit": 5
+  },
+  {
+    "image": "https://i.ibb.co/f8wvTty/8-DBMy-Sql.png",
+    "title": "Database (MySQL)",
+    "description": "MySQL is a relational database management system. The logical data model, with objects: data tables, views, rows, and columns, offers a flexible programming environment.",
+    "price": 19000,
+    "credit": 5
+  },
+  {
+    "image": "https://i.ibb.co/P1fPRr4/9-Prob-Solving.png",
+    "title": "Problem-Solving Part",
+    "description": "Learn the four steps in the problem-solving process so you can understand and resolve the issues confronting your organization. Learn more at ASQ.org.",
+    "price": 23000,
+    "credit": 2
+  }
+]
